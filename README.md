@@ -25,6 +25,6 @@ Some hyperparameters:
 
 | Model | # params | training time | AUC ROC on test set | 
 |-------| -------| ---- | --- |
-| Resnet50 | 23M | 1h | 0.75 |  
-| ViT | 80M  | 12h 31m | 0.76 | 
-| VGG | 123M |# NIH-Chest-Xrays-Image-Classification-with-PyTorch
+| Resnet50 | 23M | 1 h | 0.753 |  
+| ViT | 80M  | 12 h 31 m | 0.762 | 
+| VGG | 123M | 14 h | 0.747 | 
