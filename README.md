@@ -30,4 +30,4 @@ Some hyperparameters:
 | VGG | 123M | 14 h | 0.747 | 
 
 ## Web App
-<img width="2560" alt="image" src="https://github.com/chushic/NIH-Xray-Image-Classification/assets/24961789/ba8f3ab9-06be-4d21-9da2-c9ad596475c2">
+<img width="864" alt="image" src="https://github.com/chushic/NIH-Xray-Image-Classification/assets/24961789/522cc377-a9e8-4346-ac86-a4ce7b97ff25">
