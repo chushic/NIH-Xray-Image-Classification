@@ -28,3 +28,6 @@ Some hyperparameters:
 | Resnet50 | 23M | 1 h | 0.753 |  
 | ViT | 80M  | 12 h 31 m | 0.762 | 
 | VGG | 123M | 14 h | 0.747 | 
+
+## Web App
+<img width="2560" alt="image" src="https://github.com/chushic/NIH-Xray-Image-Classification/assets/24961789/ba8f3ab9-06be-4d21-9da2-c9ad596475c2">
